@@ -20,7 +20,8 @@
 ### 📊 Воронка конверсії (До змін)
 Цей графік демонструє найбільший drop-off користувачів на етапі між створенням плану та першою активністю, а також низьке повернення на Day 2:
 
-![Воронка користувачів](D:\Study\PM\photo\funnel.png)
+### 📈 Воронка користувачів
+<img width="721" height="421" alt="funnel" src="https://github.com/user-attachments/assets/487f96f1-41fe-48c3-9d66-7ff8911a483d" />
 
 ---
 
@@ -47,7 +48,8 @@
 * Автоматична генерація персоналізованого плану.
 * Серія з 3 інтерактивних підказок (Onboarding Overlay) з можливістю скіпнути (`Next` / `Skip`).
 
-![Екрани онбордингу](D:\Study\PM\photo\onboarding_screens.png)
+### 📈 Екрани онбордингу
+<img width="886" height="583" alt="image" src="https://github.com/user-attachments/assets/a72bc35f-5a90-46f6-8f69-af1749515b6e" />
 
 ### 📈 Метрики успіху проєкту
 * **North Star Metric:** Час від реєстрації до виконання першої активності (Time to Value).
